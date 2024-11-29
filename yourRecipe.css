@@ -229,7 +229,7 @@ footer {
     }
     
     .card {
-        width: px;
+        width: 150px;
     }
 
     .logo {
@@ -259,9 +259,6 @@ footer {
         width: 100%;
     }
     
-    .card {
-        width: 150px;
-    }
 }
 
 .formcarry-container * {
